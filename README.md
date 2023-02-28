@@ -8,4 +8,4 @@
 
 ## History
 ### Feb
-- [Feb 28th 2023](feb_28.md)
+- [Feb 28th 2023](/leaning_log/feb_28_23.md)
