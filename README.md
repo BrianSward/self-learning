@@ -9,3 +9,6 @@
 ## History
 ### Feb
 - [Feb 28th 2023](/leaning_log/feb_28_23.md)
+
+### Mar
+- [Mar 1st 2023](/learning_log/mar_01_23.md)
