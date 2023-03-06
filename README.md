@@ -12,3 +12,4 @@
 
 ### Mar
 - [Mar 1st 2023](/learning_log/mar_01_23.md)
+- [Mar 6th 2023](/learning_log/mar_06-23.md)
