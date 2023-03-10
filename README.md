@@ -15,3 +15,4 @@
 - [Mar 6th 2023](/learning_log/mar_06_23.md)
 - [Mar 7th 2023](/learning_log/mar_07_23.md)
 - [Mar 9th 2023](/learning_log/mar_09_23.md)
+- [Mar 10th 2023](/learning_log/mar_10_23.md)
